@@ -1,0 +1,70 @@
+body {
+
+    background: rgb(141,194,111);
+    background: linear-gradient(90deg, rgb(235, 240, 240) 0%, rgb(164, 129, 59) 100%) ; 
+    
+}
+button, #valasz1, #valasz2, #valasz3 {
+    
+    background-color: black ;
+    color: rgb(255, 255, 255) !important;
+    margin:  8px ;
+    text-align: center ;
+    border: 2px solid red;
+    padding: 10px;
+
+}
+img{
+    width: auto;
+    height: auto;
+    padding: 25px;
+}
+#feladat{
+    background-image: url(img/tabla.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 260px;
+    font-size: 23px ;
+    margin: 4px;
+    border: 4px;
+    padding: auto;
+    text-align: center;
+    text-align-last: center;
+    font-family: 'Callie Chalk Font', sans-serif ;     
+}
+#spanok{
+    margin: 5px;
+    border: 5px;
+    padding-top: 38px;
+    color: rgb(255, 255, 255);
+    
+}
+a{
+    margin: 5px ;
+    color: rgb(0, 0, 0) ;
+}
+#bemutatkozo{
+ font-size: large;
+ color: rgb(62, 65, 54);
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ margin: 25px;
+}
+#vegrehajtasszoveg{
+    font-family: 'Callie Chalk Font', sans-serif ;
+    margin-top: 15px;
+    margin-block-end: 5px;
+    padding: 5px;
+    border: 5px;
+    letter-spacing: 2px;
+}
+
+.container {
+    padding: 50px 150px;
+    font-family: 'Callie Chalk Font', sans-serif ; 
+}
+
+.nav-link{
+    color: white;
+}
